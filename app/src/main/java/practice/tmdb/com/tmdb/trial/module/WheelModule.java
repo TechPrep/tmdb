@@ -28,7 +28,7 @@ public class WheelModule {
     }
 
     @Provides
-    Wheel provideWHeels(Rims rim, Tyres tyres) {
+    Wheel provideWheels(Rims rim, Tyres tyres) {
         return new Wheel(rim, tyres);
     }
 }

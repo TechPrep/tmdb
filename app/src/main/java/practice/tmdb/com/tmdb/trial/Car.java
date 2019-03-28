@@ -16,6 +16,7 @@ public class Car {
     }
 
     public void drive() {
+        mEngine.start();
         Log.i(TAG, "Driving car");
     }
 }

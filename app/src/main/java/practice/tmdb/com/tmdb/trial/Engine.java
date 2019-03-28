@@ -4,9 +4,7 @@ import javax.inject.Inject;
 
 import dagger.Provides;
 
-public class Engine {
-    @Inject
-    public Engine() {
+public interface Engine {
 
-    }
+    void start();
 }
