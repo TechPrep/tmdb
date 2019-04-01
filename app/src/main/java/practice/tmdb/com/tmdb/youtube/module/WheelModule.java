@@ -1,8 +1,8 @@
-package practice.tmdb.com.tmdb.trial.module;
+package practice.tmdb.com.tmdb.youtube.module;
 
 import dagger.Module;
 import dagger.Provides;
-import practice.tmdb.com.tmdb.trial.Wheel;
+import practice.tmdb.com.tmdb.youtube.Wheel;
 
 /**
  * If Wheels is outside our applications scope and it can not be updated then

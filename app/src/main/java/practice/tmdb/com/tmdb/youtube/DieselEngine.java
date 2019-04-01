@@ -1,8 +1,6 @@
-package practice.tmdb.com.tmdb.trial;
+package practice.tmdb.com.tmdb.youtube;
 
 import android.util.Log;
-
-import javax.inject.Inject;
 
 public class DieselEngine implements Engine {
     private static final String TAG = "DieselEngine";

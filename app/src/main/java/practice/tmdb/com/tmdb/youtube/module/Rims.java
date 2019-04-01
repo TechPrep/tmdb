@@ -1,4 +1,4 @@
-package practice.tmdb.com.tmdb.trial.module;
+package practice.tmdb.com.tmdb.youtube.module;
 
 public class Rims {
 

@@ -1,9 +1,9 @@
-package practice.tmdb.com.tmdb.trial.module;
+package practice.tmdb.com.tmdb.youtube.module;
 
 import dagger.Module;
 import dagger.Provides;
-import practice.tmdb.com.tmdb.trial.DieselEngine;
-import practice.tmdb.com.tmdb.trial.Engine;
+import practice.tmdb.com.tmdb.youtube.DieselEngine;
+import practice.tmdb.com.tmdb.youtube.Engine;
 
 @Module
 public class DieselEngineModule {

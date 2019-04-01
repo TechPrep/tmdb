@@ -1,9 +1,9 @@
-package practice.tmdb.com.tmdb.trial;
+package practice.tmdb.com.tmdb.youtube;
 
 import javax.inject.Inject;
 
-import practice.tmdb.com.tmdb.trial.module.Rims;
-import practice.tmdb.com.tmdb.trial.module.Tyres;
+import practice.tmdb.com.tmdb.youtube.module.Rims;
+import practice.tmdb.com.tmdb.youtube.module.Tyres;
 
 public class Wheel {
 
